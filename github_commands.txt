@@ -18,3 +18,9 @@
 
 - push the commited file to remote github
 `git push origin branch_name`
+
+- check diff of a file
+`git diff`
+
+- to update the recent status to master branch, go to master and do git pull
+`git pull`
