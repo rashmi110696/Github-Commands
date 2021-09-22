@@ -1,0 +1,20 @@
+- Initialise the git
+`git init`
+
+- check branch
+`git branch`
+
+- create a new branch and go to that branch
+`git checkout -b "branch_name"`
+
+- check the status of the file
+`git status`
+
+- Add the file
+`git add file_name`
+
+- save the added file (commit the file)
+`git commit -m "commit_message"`
+
+- push the commited file to remote github
+`git push origin branch_name`
